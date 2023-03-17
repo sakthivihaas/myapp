@@ -1,2 +1,3 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<img src="https://worlduniversityofdesign.ac.in/assets/images/bgs/school-of-design-banner.jpg" alt="Design">
+<h1>Sakthi Vihaas</h1>
+<p>A design is a plan or specification for the construction of an object or system or for the implementation of an activity or process or the result of that plan or specification in the form of a prototype, product, or process. The verb to design expresses the process of developing a design. </p>
